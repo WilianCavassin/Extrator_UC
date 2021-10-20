@@ -12,4 +12,4 @@ As funções da aplicação são as seguintes:
     
 Recomenda-se o uso máximo de 10 User Stories por diagrama.
 
-Autoria: Wilian Cavassin 2021
+Autoria: Wilian Cavassin, 2021
