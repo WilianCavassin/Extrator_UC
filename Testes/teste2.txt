@@ -1,0 +1,3 @@
+"As a admin, I want to perform editions on code, so I can upgrade it."
+"As a observer, I want to view the last news, so I can think in better ways to evolve the system."
+"As a Developer I want to perform editions on code, so I can improve our system."

@@ -1,0 +1,5 @@
+"As an administrator, I want to limit who can see certain metadata fields, so that I can show or hide things from display based on user groups."
+"As a serious games developer, I want to be able to take control over some functions to provide the desired user experience."
+"As a DB/IR administrator, I want to see list of subscribers for specified report in order research missing report complaints."
+"As a Zooniverse admin, I want to assess how interesting or appealing or complex a picture is based on automated analysis, citizen annotations, and comments on Talk."
+"As a parent, I want to be able to create an account, so that I can sign up my kids for camp online."

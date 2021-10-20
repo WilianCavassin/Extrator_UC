@@ -1,0 +1,5 @@
+"As an archivist, I want to access the digital files on the X-drive, so that I can use them."
+"As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element."
+"As a rector, I want to know how many data will be stored, so that I can plan long term resources."
+"As a camp administrator, I want to be able to delete tasks/activities I scheduled, so that I can keep the schedule clean of unneeded activities."
+"As a attendee, I want to see what summits I'm signed up for, so that I can confirm my attendence and prevent myself from accidentally double-booking with a training or another summit."

@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\Users\\wilia\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "window.autoDetectColorScheme": true,
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "[python]":{
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4  
+    }
+}

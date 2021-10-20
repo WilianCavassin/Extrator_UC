@@ -1,0 +1,5 @@
+"As an OlderPerson, I want to have ALFRED to detect falls and send an emergency to a specific contact."
+"As a superuser, I want to view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste."
+"As an OlderPerson, I want to use ALFRED to control the heating."
+"As a repository manager, I want to indicate any statutes pertinent to an object."
+"As a data manager, I want to know which formats are used, so that I know what technology or background information might be necessary to use the data."
