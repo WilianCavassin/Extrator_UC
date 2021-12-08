@@ -91,11 +91,16 @@ def process_text_file():
     print(return_list)
     return_list.pop(0)
     xmi_file_content = functions.processData(return_list,file_name)
-    xmi_file_name = fd.asksaveasfilename(initialdir='',title='Salvar Arquivo XMI',filetypes=(('XMI Files','*.xmi'),('Todos os Arquivos','*.*')))+'.xmi'
+    xmi_file_name = fd.asksaveasfilename(initialdir='',title='Salvar Arquivo XMI',filetypes=(('XMI Files','*.xmi'),('Todos os Arquivos','*.*')))
     print(xmi_file_name)
-    if xmi_file_name == '.xmi':
+    if xmi_file_name == '.xmi' or xmi_file_name == '':
         mbox.showerror('Erro','A aplicação encontrou um erro e será encerrada.\nErro: Ponto de Salvamento Inválido.')
         sys.exit()
+    #controle de tipagem de arquivo
+    if not xmi_file_name.endswith('.xmi'):
+        xmi_file_name += '.xmi'
+    if xmi_file_name.endswith('.xmi.xmi'):
+        xmi_file_name = xmi_file_name[:-4]
     with open(xmi_file_name,'w', newline='\n') as xmi_file_name_open:
         xmi_file_name_open.write(xmi_file_content)
     text.insert('1.0', string_list)
