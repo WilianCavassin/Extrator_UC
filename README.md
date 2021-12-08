@@ -1,5 +1,6 @@
 # Extrator_UC
 
+## Descrição
 Extrator de casos de uso, a partir de User Stories
 no padrão:
 
@@ -13,4 +14,16 @@ As funções da aplicação são as seguintes:
     
 Recomenda-se o uso máximo de 10 User Stories por diagrama.
 
-Autoria: Wilian Cavassin, 2021
+## Instalação
+A Ferramenta foi desenvolvida utilizando Python 3.7.9, para execução desta, basta seguir os seguintes passos:
+
+1. Baixe ou clone a totalidade deste projeto;
+2. Execute a instalação dos requirements;
+3. Execute o arquivo main.py na pasta raíz;
+4. Pronto a aplicação deve estar rodando;
+
+
+## Dúvidas ou Questionamentos
+Podem contatar me pelo seguinte email:
+
+wilianhenri@hotmail.com
