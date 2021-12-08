@@ -1,6 +1,9 @@
 # Extrator_UC
 
 ## Descrição
+
+![Arquitetura](/Docs/diagram_arc.png)
+
 Extrator de casos de uso, a partir de User Stories
 no padrão:
 
